@@ -16,4 +16,9 @@ Passo 1
 - [x] Criar um README.md.
     >comando **$ touch README.md** no bash.
 
+- [x] Criar um Ambiente virtual.
+- [x] Criar um pasta de nome app.
+- [x] Criar um aquivo **app/__ init__.py**
+- [x] Criar um arquivo **run.Py**
+
 ***
