@@ -19,6 +19,10 @@ Passo 1
 - [x] Criar um Ambiente virtual.
 - [x] Criar um pasta de nome app.
 - [x] Criar um aquivo **app/__ init__.py**
+    >- [x] implementação do **flask**
+    >- [x] criação da função **create_app** 
+
 - [x] Criar um arquivo **run.Py**
+    >- [x] Chamar a função **create_app**
 
 ***
